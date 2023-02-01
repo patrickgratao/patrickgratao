@@ -1,6 +1,4 @@
-<img src="logo.png" width="300px" min-width="300px" max-width="300px" align="right" alt="Logo iuricode">
-
-<h2>Oi, sou o Patrick ☕</h2>
+<h2>Oi, sou o Patrick ⭐</h2>
 
 <p>Desenvolvedor front-end trabalhando com Typescript, CSS, React, GraphQL e VTEX IO, com o intuito de criar experiências incríveis de compra para milhões de clientes de e-commerce.</p>
 
