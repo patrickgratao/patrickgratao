@@ -1,6 +1,6 @@
 <h2>Oi, sou o Patrick</h2>
 
-<p>Desenvolvedor front-end trabalhando com Typescript, CSS, React, GraphQL e VTEX IO, com o intuito de criar experiências incríveis de compra para milhões de clientes de e-commerce.</p>
+<p>Desenvolvedor front-end trabalhando no grupo Brainz com Typescript, React, NextJS, Tailwind, GraphQL, Azure DevOps, com o intuito de criar produtos incríveis para mais de 5 mi de estudantes.</p>
 
 </br>
 
