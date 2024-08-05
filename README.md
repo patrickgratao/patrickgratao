@@ -1,10 +1,8 @@
-<h2>Oi, sou o Patrick Gratão.</h2>
+<h2>Oi, tudo bem?</h2>
 
-<p>Engenheiro de software com mais de 7 anos de experiência e especialista em desenvolvimento front-end.</p>
+<p>Sou o Patrick Gratão, um desenvolvedor front-end comprometido em criar produtos incríveis com Typescript, React, NextJS e Tailwind para mais de 5 milhões de estudantes. </p>
 
-<p>Acredito na transformação da sociedade através da tecnologia e educação, meu intuito é criar experiências e resultados através dos meios digitais.</p>
-
-<p>Atualmente trabalho como engenheiro de software front-end no grupo Brainz com Typescript, React, NextJS, Tailwind e Azure DevOps, com o objetivo de criar produtos incríveis para mais de 5 milhões de estudantes.</p>
+<p>Acredito na transformação social por meio da tecnologia e educação, busco proporcionar experiências digitais memoráveis para usuários e clientes.</p>
 
 <h3>Conecte-se comigo:</h3> 
 
