@@ -1,8 +1,8 @@
 <h2>Oi, tudo bem?</h2>
 
-<p>Sou o Patrick Gratão, um desenvolvedor front-end comprometido em criar produtos incríveis com Typescript, React, NextJS e Tailwind para mais de 5 milhões de estudantes. </p>
+<p>Sou o Patrick Gratão, um desenvolvedor front-end comprometido em criar produtos incríveis com Typescript, React, NextJS e Tailwind para mais de 5 milhões de estudantes.</p>
 
-<p>Acredito na transformação social por meio da tecnologia e educação, busco proporcionar experiências digitais memoráveis para usuários e clientes.</p>
+<p>Acredito na transformação social por meio da tecnologia e educação, busco proporcionar experiências digitais memoráveis para usuários e clientes através dos softwares que desenvolvo.</p>
 
 <h3>Conecte-se comigo:</h3> 
 
